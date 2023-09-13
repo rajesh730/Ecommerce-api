@@ -1,6 +1,6 @@
 ## E-commerce API
 
-This E-commerce web application API allow user to purchase the products,manage their shopping cart and place order.The Administrator can create, update, delete and also can view the monthly income statistics.This project also include authentication and authorization for data security.
+This E-commerce web application API allow user to purchase the products,manage their shopping cart and place order.The Administrator can create, update and delete.This project also include authentication and authorization for data security.
 
 ## Features
 
@@ -8,7 +8,6 @@ This E-commerce web application API allow user to purchase the products,manage t
 - Product management
 - Cart management
 - order management
-- monthly income statistics
 
 ## Technology used
 
